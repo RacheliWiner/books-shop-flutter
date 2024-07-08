@@ -1,16 +1,21 @@
-# books_app
+# books_shop
 
-A new Flutter project.
+books_shop is a fun and easy-to-use book ordering app built with Flutter. It's designed to make buying books a breeze!
+
+## What's Inside
+- **Login**: Sign in to your account
+- **Register**: Create a new account
+- **Intro Screen**: Welcome and app overview
+- **Home Page**: Browse all the awesome books
+- **Cart Page**: Check out your selected books
+- **Payment Page**: Secure checkout
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone this repo:
+   ```sh
+   git clone https://github.com/yourusername/books_shop.git
