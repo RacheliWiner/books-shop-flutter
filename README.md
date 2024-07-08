@@ -18,4 +18,4 @@ books_shop is a fun and easy-to-use book ordering app built with Flutter. It's d
 ### Installation
 1. Clone this repo:
    ```sh
-   git clone https://github.com/yourusername/books_shop.git
+   git clone https://github.com/RacheliWiner/books-shop-flutter.git
